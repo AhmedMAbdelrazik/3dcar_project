@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/3dcar_project/static/css/main.e0c13f02.css",
-    "main.js": "/3dcar_project/static/js/main.eed1a395.js",
+    "main.js": "/3dcar_project/static/js/main.42efeae6.js",
     "static/js/787.3385d1e2.chunk.js": "/3dcar_project/static/js/787.3385d1e2.chunk.js",
     "index.html": "/3dcar_project/index.html",
     "main.e0c13f02.css.map": "/3dcar_project/static/css/main.e0c13f02.css.map",
-    "main.eed1a395.js.map": "/3dcar_project/static/js/main.eed1a395.js.map",
+    "main.42efeae6.js.map": "/3dcar_project/static/js/main.42efeae6.js.map",
     "787.3385d1e2.chunk.js.map": "/3dcar_project/static/js/787.3385d1e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e0c13f02.css",
-    "static/js/main.eed1a395.js"
+    "static/js/main.42efeae6.js"
   ]
 }
